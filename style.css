@@ -338,7 +338,8 @@ h3{
     padding: 10px 2px;
 }
 .about-img{
-    width: 0.50%;
+    width: 0%;
+    display: block;
 }
 
 .about-col h1{
